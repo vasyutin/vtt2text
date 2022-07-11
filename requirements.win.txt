@@ -1,0 +1,8 @@
+altgraph==0.17.2
+docopt==0.6.2
+future==0.18.2
+pefile==2022.5.30
+pyinstaller==5.2
+pyinstaller-hooks-contrib==2022.8
+pywin32-ctypes==0.2.0
+webvtt-py==0.4.6
